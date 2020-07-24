@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "MyNewsFront",
+    "slug": "MyNewsFront",
+    "platforms": ["ios", "android", "web"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./app/assets/logo.png",
+    "splash": {
+      "image": "./app/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "",
+    "githubUrl": "https://github.com/souhaildouqchi/MyNewsFront"
+  }
+}
